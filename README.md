@@ -146,19 +146,6 @@ pytest -v
 * [ ] Cloud deployment (Kubernetes + Mongo replicaset)
 * [ ] Role-based access control (admin vs analyst)
 
-</details>
-
----
-
-<details>
-<summary>👥 Contributors</summary>
-
-* **Harshith B** — Project Lead (BE CSE @ BMSCE)
-* *Aashirvaad Kumar S*
-* *Govind Jairam Rathod*
-
-</details>
-
 ---
 
 <details>
